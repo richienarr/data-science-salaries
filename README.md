@@ -1,4 +1,4 @@
-# Data Science Salaries – Predicting Salaries with Python  
+# Data Science Salaries - Predicting Salaries with Python  
 Python notebook for salary prediction with Kaggle dataset + machine learning models.  
 This project explores data science salaries using Kaggle’s dataset with Python and machine learning models.  
 👉 Full annotated notebook available here: [Buy on Gumroad](https://richienarr.gumroad.com/l/nyiwim)  
